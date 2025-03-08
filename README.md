@@ -632,4 +632,4 @@ print(confused)
 
 <h3> Conclusions </h3> 
 
-The accuracy of the TF-IDF feature and word2vec feature for random forest model are 0.87 and 0.59 respectively. TF-IDF feature performs much better than word2vec feature. Hyperparameter tuning, feature selection, cross-validation and regularization can be implemented to prevent overfitting and improve the generalization performance of the model. Other supervised machine learning models such as SVM or Logisitic Regression might also be tested to investigate the performances of these models, which might improve the model performance.
+The accuracy of the TF-IDF feature and word2vec feature for random forest model are 0.87 and 0.59 respectively. TF-IDF feature performs much better than word2vec feature. Hyperparameter tuning, feature selection, cross-validation and regularization can be implemented to prevent overfitting and improve the generalization performance of the model. Other supervised machine learning models such as SVM or Logisitic Regression could also be tested to investigate the performances of these models, which might improve the model performance.
